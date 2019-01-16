@@ -1,2 +1,1 @@
-# web
-Front-end development and note
+# 前端课程笔记
